@@ -1,4 +1,4 @@
-# DRPM: Degeneracy Resilient Point-to-Plane Error Miniimization
+# DRPM: Degeneracy Resilient Point-to-Plane Error Minimization
 
 A probabilistic method to detect and handle degeneracies in point-to-plane error minimization for LiDAR SLAM.
 

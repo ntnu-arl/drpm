@@ -1,6 +1,8 @@
 # DRPM: Degeneracy Resilient Point-to-Plane Error Minimization
 
-A probabilistic method to detect and handle degeneracies in point-to-plane error minimization for LiDAR SLAM.
+A probabilistic method to detect and handle degeneracies in point-to-plane error minimization for LiDAR SLAM. 
+
+Presented in the paper *Probabilistic Degeneracy Detection for Point-to-Plane Error Minimization* ([preprint](https://arxiv.org/abs/2410.10784) | [video](https://www.youtube.com/watch?v=bKnHs_wwnXs)).
 
 ## Usage
 
@@ -26,6 +28,6 @@ If you use this code in your research, please cite the following paper:
   title={Probabilistic Degeneracy Detection for Point-to-Plane Error Minimization},
   author={Hatleskog, Johan and Alexis, Kostas},
   year={2024},
-  note={arXiv:0000.00000}
+  note={arXiv:2410.10784}
 }
 ```
